@@ -1,0 +1,1 @@
+This project focuses on some commonly used java classes and methods can be used to reduce write functional code.
